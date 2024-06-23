@@ -16,4 +16,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://chintan2181997:$HF_TOKEN@huggingface.co/spaces/chintan2181997/CourseHelper-UCumberlands main
+        run: git push https://chintan2181997:$HF_TOKEN@huggingface.co/spaces/chintan2181997/CourseHelper-UCumberlands-2 main
