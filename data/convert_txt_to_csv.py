@@ -12,7 +12,7 @@ pattern = re.compile(r'Question:\s*(.*?)\s*Answer:\s*(.*?)\s*(?=Question:|$)', r
 
 # Find all matches
 matches = pattern.findall(text)
-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
+
 # Convert matches to a DataFrame
 df = pd.DataFrame(matches, columns=['Question', 'Answer'])
 
