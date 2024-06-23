@@ -1,0 +1,600 @@
+Question: What is the course number and name for the AI and HCI class?
+Answer: MSAI631 - A01 Artificial Intelligence for Human-Computer Interaction
+
+Question: Who is the instructor for the course?
+Answer: Alan L Dennis
+
+Question: What is the format of the course?
+Answer: Online
+
+Question: What is the CRN for the course?
+Answer: 2024-SUMMER-1BT-MSAI-631-A01
+
+Question: When is the class time and location?
+Answer: Online
+
+Question: What is the email address of the instructor?
+Answer: alan.dennis@ucumberlands.edu
+
+Question: What is the phone number for the instructor?
+Answer: 7402499151
+
+Question: Where is the instructor's office located?
+Answer: Remote
+
+Question: How can students schedule an appointment with the instructor?
+Answer: By appointment
+
+Question: What is the URL for the UC directory of the instructor?
+Answer: https://www.ucumberlands.edu/directory/dr-alan-l-dennis
+
+Question: What is the course description?
+Answer: This course examines the convergence of AI and HCI and how they have revolutionized the ways we interact with machines and systems. The class emphasizes the symbiotic relationship between AI and HCI, equipping students with the knowledge and skills to design, develop, and optimize intelligent interactive systems.
+
+Question: What will students comprehend upon completion of the course?
+Answer: Foundational concepts of AI and HCI and how their integration shapes modern interactive systems, user experiences, and digital interfaces.
+
+Question: What design principles will students learn to apply in the course?
+Answer: User-centered design principles, usability heuristics, and accessibility guidelines.
+
+Question: What machine learning techniques will students demonstrate proficiency in?
+Answer: Pattern recognition, classification, and clustering.
+
+Question: What kind of AI-powered interfaces will students learn to create?
+Answer: Natural language interfaces such as conversational agents, chatbots, and voice-driven applications.
+
+Question: What ethical challenges related to AI-powered interfaces will students identify?
+Answer: Bias, privacy, transparency, and accountability.
+
+Question: What kind of practical experience will students gain?
+Answer: Designing, prototyping, and evaluating AI-driven interactive systems through hands-on projects.
+
+Question: What are some key learner outcomes of the course?
+Answer: Analyze AI and HCI interactions, evaluate user-centric design principles, create usability heuristics, apply NLP concepts, and create an intelligent chatbot.
+
+Question: What are the required books for the course?
+Answer: "Human-Centered AI" by Ben Shneiderman.
+
+Question: What is the ISBN for the required book?
+Answer: 9780192845290
+
+Question: Who is the publisher of the required book?
+Answer: Oxford University Press
+
+Question: When was the required book published?
+Answer: January 1, 2022
+
+Question: What is the URL for accessing course materials?
+Answer: http://www.ucumberlands.edu/ilearn/ or https://ucumberlands.blackboard.com/
+
+Question: What is the academic dishonesty policy?
+Answer: Academic dishonesty includes cheating, lying, plagiarism, and multiple submissions. Penalties can include a failing grade, suspension, expulsion, or revocation of a degree.
+
+Question: What is considered cheating under the academic dishonesty policy?
+Answer: Using deception in tests or preparation of work, using unauthorized materials, copying work, or assisting others in such activities.
+
+Question: What constitutes lying under the academic dishonesty policy?
+Answer: Falsifying, fabricating, or forging information in written or spoken presentations.
+
+Question: How is plagiarism defined in the academic dishonesty policy?
+Answer: Using the published writings, data, interpretations, or ideas of another without proper documentation.
+
+Question: What is multiple submissions under the academic dishonesty policy?
+Answer: Submitting the same academic work for which credit was previously received without approval from the instructor.
+
+Question: What happens if a student commits academic dishonesty?
+Answer: The potential penalty includes a failing grade on the assignment, a failing grade for the entire course, suspension or expulsion, or revocation of a degree.
+
+Question: What is the attendance policy?
+Answer: Course enrollment and participation are monitored during the first two weeks. Active participation and completing coursework each week are essential for success.
+
+Question: What is the participation policy?
+Answer: Students are expected to actively participate in discussions, assignments, and other activities.
+
+Question: What will happen if students do not participate in the first two weeks?
+Answer: Lack of participation during this time may jeopardize enrollment status.
+
+Question: What kind of activities require student participation?
+Answer: Discussion board activities, synchronous sessions, forums, and shared papers.
+
+Question: How are course evaluations conducted?
+Answer: The course evaluation will be open during the last two weeks of the term, accessible via https://uofcumberlands.campuslabs.com/eval-home/ with UC credentials.
+
+Question: Is course evaluation anonymous?
+Answer: Yes, the evaluations are confidential and anonymous.
+
+Question: When can faculty see the results of the course evaluations?
+Answer: After final grades are submitted.
+
+Question: What are disability accommodations?
+Answer: University of the Cumberlands accepts students with certified disabilities and provides reasonable accommodations in the classroom, housing, food service, or other areas.
+
+Question: How can students request disability accommodations?
+Answer: Submit a completed Accommodations Application form and provide documentation of the disability to the Disability Services Coordinator.
+
+Question: Who is the Disability Services Coordinator?
+Answer: Shirley Stephens
+
+Question: Where is the Disability Services Coordinator's office located?
+Answer: Gatliff Administration Building, Room 114
+
+Question: What is the email address for accommodations inquiries?
+Answer: accommodations@ucumberlands.edu
+
+Question: What is the process for challenging a grade?
+Answer: Discuss with the instructor and department chair. If unresolved, file a formal written appeal with the Vice President for Academic Affairs.
+
+Question: What is the time frame for filing a grade appeal?
+Answer: Within four weeks after the last day of class for the semester in which the course occurred.
+
+Question: Who reviews the formal written appeal for a grade challenge?
+Answer: The Academic Appeals Committee
+
+Question: What will the Academic Appeals Committee do?
+Answer: Gather information from the instructor and other relevant parties and deliver a recommendation to the Vice President for Academic Affairs.
+
+Question: When will the final decision on a grade appeal be communicated?
+Answer: No later than the last day of classes of the term in which the complaint was filed.
+
+Question: What are students' responsibilities in terms of email communication?
+Answer: Use University of the Cumberlands email system for all academic, administrative, and co-curricular communication.
+
+Question: How often should students check their email and class announcements?
+Answer: Daily
+
+Question: What should students do if they miss a class?
+Answer: Find out class assignments and make up missed work.
+
+Question: What is required for written work to be evaluated?
+Answer: It must be presented in a professional manner.
+
+Question: What happens if written work is not presented professionally?
+Answer: It will not be evaluated and will be returned as unacceptable.
+
+Question: What are some elements of craft in writing?
+Answer: Spelling, grammar, punctuation, and diction (word usage).
+
+Question: How will work that does not exhibit care with regard to writing elements be graded?
+Answer: It will be considered inadequate for college writing and graded accordingly.
+
+Question: When should students take examinations?
+Answer: On the designated dates.
+
+Question: What should students do if they cannot take an exam on the scheduled date?
+Answer: Make arrangements with the professor before the designated date.
+
+Question: What are the consequences of missing an exam without a legitimate reason?
+Answer: The professor will determine the legitimacy of the reason, and the student may face penalties.
+
+Question: What is the policy on late assignments?
+Answer: Late assignments are not accepted.
+
+Question: What time zone do all course deadlines follow?
+Answer: Eastern Standard Time (EST)
+
+Question: What is the importance of time management and organizational skills in the course?
+Answer: Recognizing that a large part of professional life is meeting deadlines, developing these skills is essential.
+
+Question: What are students expected to do with assigned reading material?
+Answer: Review and prepare responses to homework assigned.
+
+Question: How should students participate in activities and assignments?
+Answer: Actively and in a supportive, constructive manner.
+
+Question: What kind of assignments and exams are there in the course?
+Answer: Specific assignments, discussions, and exams, completed professionally.
+
+Question: What technologies should students utilize for class assignments?
+Answer: Learned technologies relevant to the course content.
+
+Question: What is the Practical Connection Assignment?
+Answer: A written assignment where students reflect on course concepts and their practical connection to a working environment.
+
+Question: How are group projects structured in the course?
+Answer: Students are randomly grouped in iLearn and submit their research project as a group.
+
+Question: How are course activities and experiences evaluated?
+Answer: Through active participation, timely completion of assignments, and engaging in discussions.
+
+Question: Where can students find links to support resources?
+Answer: UC Academic Catalog, UC Student Handbook, Academic Resources & Writing Center, Library, Bookstore, and About University of the Cumberlands websites.
+
+Question: What is the link to the UC Academic Catalog?
+Answer: https://www.ucumberlands.edu/academics/academic-catalog
+
+Question: What is the link to the UC Student Handbook?
+Answer: https://www.ucumberlands.edu/student-handbook
+
+Question: Where can students access the Academic Resources & Writing Center?
+Answer: www.ucumberlands.edu/learningcommons
+
+Question: What is the link to the UC Library?
+Answer: http://www.ucumberlands.edu/library/
+
+Question: Where can students find the UC Bookstore?
+Answer: https://cumber.bncollege.com/shop/cumberlands/home
+
+Question: What is the link to the President's Welcome at University of the Cumberlands?
+Answer: https://www.ucumberlands.edu/about/presidents-welcome
+
+Question: What are the instructions for accessing Office 365 Pro Plus?
+Answer: Visit https://helpdesk.ucumberlands.edu/support/solutions/articles/7000045435
+
+Question: How can students share course concerns with program administration?
+Answer: Use the Student Course Concern Early Detection Form.
+
+Question: What issues can be reported using the Early Detection Form?
+Answer: Delayed grading beyond 7 days, faculty not responding to emails (no response in over 36 hours), or folders/content unavailable.
+
+Question: Who can students contact if they are uncomfortable completing the Early Detection Form?
+Answer: Their student success coordinator or academicaffairs@ucumberlands.edu
+
+Question: What types of exams are there in the course?
+Answer: Multiple-choice, multiple answers, matching, and True/False questions.
+
+Question: Where are exams available?
+Answer: Through iLearn
+
+Question: How should exams be completed?
+Answer: Independently
+
+Question: What types of quizzes will be given?
+Answer: Multiple-choice/answer, short answer questions, matching, and True/False questions.
+
+Question: What will assignments and discussions be based on?
+Answer: Course lectures, materials, and required reading assignments.
+
+Question: What is the total point value for discussions?
+Answer: 20 points
+
+Question: How many project reports are required?
+Answer: 6 project reports
+
+Question: What is the point value for each project report?
+Answer: 40 points
+
+Question: What is the total point value for exercises?
+Answer: 210 points
+
+Question: How many exercises are there in the course?
+Answer: 7 exercises
+
+Question: What is the point value for each exercise?
+Answer: 30 points
+
+Question: How many reports are required?
+Answer: 2 reports
+
+Question: What is the point value for each report?
+Answer: 40 points
+
+Question: How many group projects are there?
+Answer: 1 group project with multiple components
+
+Question: What is the point value for the group project proposal?
+Answer: 80 points
+
+Question: What is the point value for the group project presentation?
+Answer: 80 points
+
+Question: What is the point value for the group project results report?
+Answer: 80 points
+
+Question: What is the total point value for all graded work?
+Answer: 1000 points
+
+Question: What grade corresponds to a score of 900-1000 points?
+Answer: A (90% - 100%)
+
+Question: What grade corresponds to a score of 800-899 points?
+Answer: B (80% - 89%)
+
+Question: What grade corresponds to a score of 700-799 points?
+Answer: C (70% - 79%)
+
+Question: What grade corresponds to a score below 699 points?
+Answer: F (Below 69%)
+
+Question: What topics are covered in Week 1?
+Answer: Introductions, GitHub Repo Exercise, Document Development Environment Setup Exercise
+
+Question: What are the readings for Week 2?
+Answer: Chapters 2 and 3, Journal Articles
+
+Question: What is the focus of Week 3?
+Answer: Prototype Simple Traditional Chatbot, Integrate Traditional Chatbot with AI Service
+
+Question: What are the Week 4 assignments?
+Answer: Design a Conversational Agent, User-Centric Design Principles, Group Project Proposal
+
+Question: What topics are covered in Week 5?
+Answer: Evaluating User-Friendliness of an Application, Chatbots compared to Virtual Assistants, Practical Connection Assignment
+
+Question: What project is due in Week 6?
+Answer: Recommendation System using AI/HCI
+
+Question: What ethical challenges are identified in Week 6?
+Answer: Ethical Challenges During AI/HCI Design
+
+Question: What is the focus of Week 7?
+Answer: Adaptive UI using AI/HCI, Accessibility Guidelines, Group Project Design Documentation, Group Project Source Code in GitHub
+
+Question: What are the Week 8 assignments?
+Answer: Bias in AI/HCI Interfaces Report, Group Project Presentation, Group Project Results, Reflections Discussion
+
+Question: What disclaimer is included in the syllabus?
+Answer: The syllabus contains important information critical to success in the course and may be adjusted or changed by the instructor as needed.
+
+Question: How will changes to the syllabus be communicated?
+Answer: They will be discussed with the students.
+
+Question: What is the main focus of the course?
+Answer: The convergence of AI and HCI and how they revolutionize interaction with machines and systems.
+
+Question: What will students learn about AI-powered natural language interfaces?
+Answer: Creating conversational agents, chatbots, and voice-driven applications.
+
+Question: What strategies will students propose for ethical challenges in AI-powered interfaces?
+Answer: Addressing concerns such as bias, privacy, transparency, and accountability.
+
+Question: What are the office hours for the instructor?
+Answer: By appointment
+
+Question: What is the significance of user-centered design principles in the course?
+Answer: To design and develop intuitive, user-friendly interfaces catering to diverse user needs and preferences.
+
+Question: What is the role of machine learning techniques in the course?
+Answer: To create real-time interfaces that adapt to user interactions and preferences.
+
+Question: What practical experience will students gain in the course?
+Answer: Designing, prototyping, and evaluating AI-driven interactive systems through hands-on projects.
+
+Question: How will usability testing be applied in the course?
+Answer: Through iterative design to refine and optimize the user experience.
+
+Question: What are the main components of the academic dishonesty policy?
+Answer: Cheating, lying, plagiarism, and multiple submissions.
+
+Question: What is the potential penalty for academic dishonesty?
+Answer: Failing grade on the assignment or course, suspension, expulsion, or revocation of a degree.
+
+Question: What are students expected to do with their University email accounts?
+Answer: Monitor frequently for important information and correspondence.
+
+Question: How should students present their written work?
+Answer: In an academic and professional manner.
+
+Question: What is the grading scale for an 'A'?
+Answer: 900 – 1000 points (90% - 100%)
+
+Question: What is the grading scale for a 'B'?
+Answer: 800 – 899 points (80% - 89%)
+
+Question: What is the grading scale for a 'C'?
+Answer: 700 – 799 points (70% - 79%)
+
+Question: What is the grading scale for an 'F'?
+Answer: Below 699 points (Below 69%)
+
+Question: What is the first week's exercise?
+Answer: GitHub Repo Exercise and Document Development Environment Setup Exercise
+
+Question: What is the focus of Week 2?
+Answer: AI and HCI Interactions and Synergies, Design Thinking in HCI/AI
+
+Question: What is the topic of the Group Project in Week 3?
+Answer: Prototype Simple Traditional Chatbot and Integrate Traditional Chatbot with AI Service
+
+Question: What are the Week 4 group project components?
+Answer: Design a Conversational Agent, User-Centric Design Principles, and Group Project Proposal
+
+Question: What is the main focus of Week 5?
+Answer: Evaluating User-Friendliness of an Application, Chatbots compared to Virtual Assistants, and Practical Connection Assignment
+
+Question: What is the main project in Week 6?
+Answer: Recommendation System using AI/HCI
+
+Question: What are students expected to identify in Week 6?
+Answer: Ethical Challenges During AI/HCI Design
+
+Question: What is the focus of Week 7?
+Answer: Adaptive UI using AI/HCI, Accessibility Guidelines, Group Project Design Documentation, and Group Project Source Code in GitHub
+
+Question: What are the Week 8 assignments?
+Answer: Bias in AI/HCI Interfaces Report, Group Project Presentation, Group Project Results, and Reflections Discussion
+
+Question: What are the main learning outcomes for analyzing AI and HCI interactions?
+Answer: Understanding how AI and HCI integration shapes modern interactive systems and user experiences.
+
+Question: What are students expected to evaluate in terms of user-centric design principles?
+Answer: The effectiveness and application of user-centered design principles, usability heuristics, and accessibility guidelines.
+
+Question: What kind of system will students create using AI and HCI concepts?
+Answer: A recommendation system
+
+Question: What NLP concepts will students apply in the course?
+Answer: Tokenization in an NLP-based chatbot
+
+Question: How will students integrate AI services in their projects?
+Answer: By creating an intelligent chatbot and integrating it with AI-as-a-Service offerings such as Azure Cognitive Services.
+
+Question: What kind of report is due in Week 8?
+Answer: Bias in AI/HCI Interfaces Report
+
+Question: What kind of feedback is valued in course evaluations?
+Answer: Thoughtful responses that guide future improvements for the course and programs.
+
+Question: How can students access Office 365 Pro Plus?
+Answer: Follow the instructions at https://helpdesk.ucumberlands.edu/support/solutions/articles/7000045435
+
+Question: What is the UC Directory URL for the instructor?
+Answer: https://www.ucumberlands.edu/directory/dr-alan-l-dennis
+
+Question: What is the participation requirement for the course?
+Answer: Active participation in intelligent discussions of assigned topics in all areas, such as Discussion Board Activities, Synchronous Sessions, Forums, Shared Papers, etc.
+
+Question: What are students expected to use for all academic, administrative, and co-curricular communication?
+Answer: University of the Cumberlands email system (Webmail)
+
+Question: How should students engage with course content?
+Answer: By participating in activities, assignments, and discussions and evaluating peers' work constructively.
+
+Question: What should students do if they have questions or concerns?
+Answer: Contact faculty or student success coordinator
+
+Question: What is the policy on taking examinations?
+Answer: Students should take examinations on the designated dates and make arrangements with faculty before the designated date if needed.
+
+Question: How are students expected to present written work?
+Answer: In an academic and professional manner
+
+Question: What is the importance of spelling, grammar, punctuation, and diction in written work?
+Answer: They are tools of the craft of writing and essential for collegiate level work.
+
+Question: What will happen to work that does not exhibit care in writing?
+Answer: It will be graded as inadequate for college writing.
+
+Question: What is the UC Academic Catalog URL?
+Answer: https://www.ucumberlands.edu/academics/academic-catalog
+
+Question: What is the UC Student Handbook URL?
+Answer: https://www.ucumberlands.edu/student-handbook
+
+Question: What is the UC Learning Commons URL?
+Answer: http://www.ucumberlands.edu/learningcommons
+
+Question: What is the UC Library URL?
+Answer: http://www.ucumberlands.edu/library/
+
+Question: What is the UC Bookstore URL?
+Answer: https://cumber.bncollege.com/shop/cumberlands/home
+
+Question: What is the President's Welcome URL?
+Answer: https://www.ucumberlands.edu/about/presidents-welcome
+
+Question: What is the email for accommodations inquiries?
+Answer: accommodations@ucumberlands.edu
+
+Question: Who should students contact for disability services?
+Answer: Shirley Stephens, Disability Services Coordinator
+
+Question: What are the specific assignments for Week 1?
+Answer: Introductions Discussion, GitHub Repo Exercise, Document Development Environment Setup Exercise
+
+Question: What is the practical connection assignment about?
+Answer: Reflecting on course concepts and their practical connection to a working environment.
+
+Question: What is the focus of the group project in Week 4?
+Answer: Design a Conversational Agent and User-Centric Design Principles
+
+Question: How are students expected to evaluate user-friendliness in Week 5?
+Answer: By evaluating the user-friendliness of an application and comparing chatbots to virtual assistants.
+
+Question: What is the main project due in Week 6?
+Answer: A recommendation system using AI and HCI concepts
+
+Question: What ethical challenges are discussed in Week 6?
+Answer: Identifying ethical challenges during AI and HCI design
+
+Question: What are the Week 7 assignments about?
+Answer: Adaptive UI using AI and HCI, Accessibility Guidelines, Group Project Design Documentation, Group Project Source Code in GitHub
+
+Question: What kind of report is due in Week 8?
+Answer: Bias in AI/HCI Interfaces Report
+
+Question: What is the point value of the group project proposal?
+Answer: 80 points
+
+Question: How many points are each exercise worth?
+Answer: 30 points
+
+Question: How many project reports are required?
+Answer: 6 project reports
+
+Question: What is the point value of each project report?
+Answer: 40 points
+
+Question: What are the learning outcomes related to creating usability heuristics?
+Answer: Creating and discussing usability heuristics
+
+Question: What will students learn about accessibility guidelines?
+Answer: Evaluating their importance, including legal and ethical implications
+
+Question: What will students analyze regarding user-centric design principles?
+Answer: The effectiveness and application in creating user-friendly interfaces
+
+Question: How will AI techniques be used to improve user experience?
+Answer: By applying approaches to using AI techniques in interactive systems
+
+Question: What is prompt engineering?
+Answer: Creating effective prompts for AI models
+
+Question: What is an alternative approach to hard prompts in AI?
+Answer: Using dynamic and adaptive prompts
+
+Question: What is an intelligent chatbot?
+Answer: A chatbot integrated with AI-as-a-Service offerings
+
+Question: How can students access the course website?
+Answer: Via the iLearn portal on the University of the Cumberlands website
+
+Question: What is the publication date of the required book "Human-Centered AI"?
+Answer: January 1, 2022
+
+Question: What is the role of the UC Directory URL?
+Answer: To provide contact information for the instructor
+
+Question: What kind of exercises will students do in the course?
+Answer: Practical exercises related to course topics
+
+Question: What is the focus of the first week's assignments?
+Answer: Introduction to the course and setting up the development environment
+
+Question: How will students demonstrate proficiency in machine learning techniques?
+Answer: By creating real-time interfaces that adapt to user interactions and preferences
+
+Question: What are the key ethical challenges in AI-powered interfaces?
+Answer: Bias, privacy, transparency, and accountability
+
+Question: What strategies will students propose for ethical challenges?
+Answer: Addressing concerns while designing HCI solutions
+
+Question: How will students gain practical experience in the course?
+Answer: Through hands-on projects and usability testing
+
+Question: What is the main outcome of Week 3's project?
+Answer: Integrating a traditional chatbot with an AI service
+
+Question: What is the main focus of Week 5's assignments?
+Answer: Evaluating user-friendliness and comparing chatbots to virtual assistants
+
+Question: What is the significance of user-centered design principles in the course?
+Answer: Designing intuitive, user-friendly interfaces
+
+Question: What are students expected to do with their University email accounts?
+Answer: Monitor frequently for important information and correspondence
+
+Question: What is the importance of spelling, grammar, punctuation, and diction in written work?
+Answer: They are tools of the craft of writing and essential for collegiate level work
+
+Question: How should students engage with course content?
+Answer: By participating in activities, assignments, and discussions and evaluating peers' work constructively
+
+Question: What are students expected to identify in Week 6?
+Answer: Ethical challenges during AI and HCI design
+
+Question: What is the focus of Week 7's assignments?
+Answer: Adaptive UI using AI and HCI, Accessibility Guidelines, Group Project Design Documentation, Group Project Source Code in GitHub
+
+Question: What kind of report is due in Week 8?
+Answer: Bias in AI/HCI Interfaces Report
+
+Question: How will usability testing be applied in the course?
+Answer: Through iterative design to refine and optimize the user experience
+
+Question: What are the main components of the academic dishonesty policy?
+Answer: Cheating, lying, plagiarism, and multiple submissions
+
+Question: What is the role of the Disability Services Coordinator?
+Answer: To discuss and approve accommodations for students with certified disabilities
+
