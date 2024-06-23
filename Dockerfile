@@ -8,10 +8,10 @@ WORKDIR /app
 COPY . /app
 
 # Create a cache directory
-RUN mkdir -p /app/cache
+RUN mkdir -p /app/hf_cache
 
 # Set the TRANSFORMERS_CACHE environment variable
-ENV TRANSFORMERS_CACHE=/app/cache
+ENV HF_HOME=/app/hf_cache
 
 
 # Install any needed packages specified in requirements.txt
@@ -25,3 +25,5 @@ ENV NAME FlaskApp
 
 # Run app.py when the container launches
 CMD ["python", "app.py"]
+
+

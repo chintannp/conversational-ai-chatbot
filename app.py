@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 
 # Set the cache directory for transformers
-os.environ['TRANSFORMERS_CACHE'] = './cache'
+os.environ['HF_HOME'] = './cache'
 
 
 # Load pre-trained model and tokenizer
