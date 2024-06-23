@@ -2,8 +2,13 @@ from flask import Flask, request, jsonify, render_template
 from transformers import BertTokenizer, BertForQuestionAnswering
 import torch
 from PyPDF2 import PdfReader
+import os 
 
 app = Flask(__name__)
+
+# Set the cache directory for transformers
+os.environ['TRANSFORMERS_CACHE'] = './cache'
+
 
 # Load pre-trained model and tokenizer
 model_name = "bert-large-uncased-whole-word-masking-finetuned-squad"
