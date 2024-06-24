@@ -2,7 +2,7 @@ import re
 import pandas as pd
 
 # Sample text containing questions and answers
-text = """ """
+text = """  """
 
 with open('data/qa.txt', 'r') as file:
     text = file.read()
