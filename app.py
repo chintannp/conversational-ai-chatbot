@@ -6,14 +6,16 @@ import os
 
 app = Flask(__name__)
 
+cache_dir = "/app/cache"  # Or wherever you want to store the cache within your app
+
 # Set the cache directory for transformers
 os.environ['HF_HOME'] = './cache'
 
 
 # Load pre-trained model and tokenizer
 model_name = "bert-large-uncased-whole-word-masking-finetuned-squad"
-tokenizer = BertTokenizer.from_pretrained(model_name)
-model = BertForQuestionAnswering.from_pretrained(model_name)
+tokenizer = BertTokenizer.from_pretrained(model_name, cache_dir=cache_dir)
+model = BertForQuestionAnswering.from_pretrained(model_name, cache_dir=cache_dir)
 
 with open('data/qa.txt','r') as qa_file:
     txt = qa_file.read()
