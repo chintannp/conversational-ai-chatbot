@@ -7,11 +7,17 @@ WORKDIR /app
 # Copy the current directory contents into the container at /app
 COPY . /app
 
-# Create a cache directory
-RUN mkdir -p /app/hf_cache
+# Create a new user with a user ID of 1000
+RUN useradd -ms /bin/bash -u 1000 customuser
 
-# Set the TRANSFORMERS_CACHE environment variable
-ENV HF_HOME=/app/hf_cache
+# Change ownership of the /app directory and its contents to the new user
+RUN chown -R customuser /app
+
+# Switch to the new user
+USER customuser
+
+# Create a cache directory
+RUN mkdir -p /app/cache
 
 
 # Install any needed packages specified in requirements.txt
